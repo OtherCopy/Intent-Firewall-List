@@ -1,3 +1,5 @@
+已停止更新
+
 <p align="center">
 <img src="assets/firewalls.svg" alt="Intent Firewall List">
 </p>
@@ -53,4 +55,3 @@ Intent Firewall List
 >
 > **格式可见 [RULES_FORMAT.md](https://github.com/LaelLuo/Intent-Firewall-List/blob/master/RULES_FORMAT.md)**
 
-已停止更新
